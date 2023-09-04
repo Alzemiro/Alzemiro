@@ -2,7 +2,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
-<img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
+
 I'm Kelechi, a Project Manager with Finance background & love for anything Tech. Python is my first language, exploring the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
 
 
@@ -57,11 +57,11 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Tech.
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=PluckyPrecious&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzemiro&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Alzemiro&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 
 
